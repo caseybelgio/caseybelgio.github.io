@@ -1,2 +1,0 @@
-# caseybelgio.github.io
-CaseyProductManager
